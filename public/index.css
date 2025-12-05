@@ -1,0 +1,6 @@
+/* Minimal stylesheet served at /index.css to satisfy the link in index.html.
+   Tailwind CDN handles the bulk of styling for the app. */
+   body {
+    margin: 0;
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
